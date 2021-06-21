@@ -1,0 +1,128 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/cpu.c
+string.h
+-
+ram.h
+/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/ram.h
+interpreter.h
+/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/interpreter.h
+shell.h
+/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/shell.h
+
+/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/cpu.h
+
+/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/interpreter.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+shellmemory.h
+/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/shellmemory.h
+shell.h
+/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/shell.h
+kernel.h
+/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/kernel.h
+ram.h
+/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/ram.h
+memorymanager.h
+/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/memorymanager.h
+
+/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/interpreter.h
+
+/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/kernel.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+shell.h
+/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/shell.h
+pcb.h
+/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/pcb.h
+ram.h
+/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/ram.h
+cpu.h
+/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/cpu.h
+memorymanager.h
+/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/memorymanager.h
+interpreter.h
+/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/interpreter.h
+dirent.h
+-
+errno.h
+-
+
+/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/kernel.h
+
+/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/memorymanager.c
+string.h
+-
+stdio.h
+-
+math.h
+-
+stdlib.h
+-
+sys/stat.h
+-
+pcb.h
+/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/pcb.h
+ram.h
+/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/ram.h
+interpreter.h
+/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/interpreter.h
+kernel.h
+/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/kernel.h
+
+/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/memorymanager.h
+
+/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/pcb.c
+stdio.h
+-
+stdlib.h
+-
+
+/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/pcb.h
+
+/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/ram.c
+stdio.h
+-
+string.h
+-
+
+/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/ram.h
+stdio.h
+-
+
+/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/shell.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+interpreter.h
+/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/interpreter.h
+
+/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/shell.h
+
+/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/shellmemory.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+
+/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/shellmemory.h
+

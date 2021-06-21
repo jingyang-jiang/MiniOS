@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Comp310_A3"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/erres/CLionProjects/Comp310\ A3/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/erres/CLionProjects/Comp310\ A3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/erres/CLionProjects/Comp310\ A3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/erres/CLionProjects/Comp310\ A3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/erres/CLionProjects/Comp310\ A3/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/erres/CLionProjects/Comp310\ A3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/erres/CLionProjects/Comp310\ A3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/erres/CLionProjects/Comp310\ A3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Comp310_A3">
+				<Option output="/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/cmake-build-debug/Comp310_A3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/erres/CLionProjects/Comp310\ A3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Comp310_A3"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/erres/CLionProjects/Comp310\ A3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/erres/CLionProjects/Comp310\ A3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/erres/CLionProjects/Comp310\ A3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Comp310_A3/fast">
+				<Option output="/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/cmake-build-debug/Comp310_A3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/erres/CLionProjects/Comp310\ A3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Comp310_A3/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/erres/CLionProjects/Comp310\ A3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/erres/CLionProjects/Comp310\ A3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/erres/CLionProjects/Comp310\ A3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/erres/CLionProjects/Comp310\ A3/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/erres/CLionProjects/Comp310\ A3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/erres/CLionProjects/Comp310\ A3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/erres/CLionProjects/Comp310\ A3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/cpu.c">
+			<Option target="Comp310_A3"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/cpu.h">
+			<Option target="Comp310_A3"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/interpreter.c">
+			<Option target="Comp310_A3"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/interpreter.h">
+			<Option target="Comp310_A3"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/kernel.c">
+			<Option target="Comp310_A3"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/kernel.h">
+			<Option target="Comp310_A3"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/memorymanager.c">
+			<Option target="Comp310_A3"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/memorymanager.h">
+			<Option target="Comp310_A3"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/pcb.c">
+			<Option target="Comp310_A3"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/pcb.h">
+			<Option target="Comp310_A3"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/ram.c">
+			<Option target="Comp310_A3"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/ram.h">
+			<Option target="Comp310_A3"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/shell.c">
+			<Option target="Comp310_A3"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/shell.h">
+			<Option target="Comp310_A3"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/shellmemory.c">
+			<Option target="Comp310_A3"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/shellmemory.h">
+			<Option target="Comp310_A3"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/erres/CLionProjects/Comp310 A3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
